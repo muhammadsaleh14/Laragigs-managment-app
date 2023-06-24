@@ -17,4 +17,4 @@ Requirements: mysql server, laravel, artisan and anything related to laravel ig
 
 ## Example pictures
 
-![Alt Text](./project-images/add_gig.png)
+![Alt Text](./public/project-images/add_gig.png)
