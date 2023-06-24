@@ -1,3 +1,4 @@
+_Made by following an amazing youtube totourial -> Traversy Media_ 
 # Project Title
 Laragigs-management in laravel with mysql and tailwindcss
 
